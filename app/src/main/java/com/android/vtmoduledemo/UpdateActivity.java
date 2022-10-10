@@ -35,7 +35,7 @@ public class UpdateActivity  extends AppCompatActivity{
     private static final int INSTALL_COMPLETE = 600;
     private Button btnDownInstall;//下载安装
     //private static String appDownloadUrl = "https://pendobucket.us-east-1.linodeobjects.com/Chessnut_1.1.15.apk";//下载文件的地址
-    private static String appDownloadUrl = "https://raw.githubusercontent.com/tomashzy/VtmoduleDemo/master/app/apk/vtmoduleDemo.apk";
+    private static String appDownloadUrl = "https://raw.githubusercontent.com/tomashzy/VtmoduleDemo/master/app/apk/vtmoduleDemo2.0.apk";
     private ProgressBar mProgressBar;
     private ProgressBar hProgressBar;
     private CirclePgBar mCirclePgBar;
