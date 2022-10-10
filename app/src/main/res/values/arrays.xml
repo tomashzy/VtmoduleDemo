@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gpio_select">
+        <item>IO1</item>
+        <item>IO2 </item>
+        <item>IO3</item>
+        <item>IO4</item>
+        <item>RST</item>
+    </string-array>
+
+    <string-array name="spi_select">
+        <item>SPI0</item>
+        <item>SPI1</item>
+        <item>SPI2</item>
+        <item>SPI3</item>
+        <item>SPI4</item>
+        <item>SPI5</item>
+    </string-array>
+
+    <string-array name="spi_mode">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="spi_lsb">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="spi_bpw">
+        <item>8</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="spi_speed">
+        <item>500000</item>
+        <item>1000000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000 </item>
+        <item>4000000</item>
+        <item>4500000</item>
+        <item>5000000</item>
+        <item>8000000</item>
+        <item>10000000</item>
+    </string-array>
+
+    <string-array name="uart_select">
+        <item>UART0</item>
+        <item>UART1</item>
+        <item>UART2</item>
+        <item>UART3</item>
+        <item>UARTWK0 </item>
+        <item>UARTWK1 </item>
+        <item>UARTWK2 </item>
+        <item>UARTWK3 </item>
+    </string-array>
+
+    <string-array name="uart_speed">
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600 </item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>576000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+    </string-array>
+
+    <string-array name="pwm_select">
+        <item>PWM0</item>
+        <item>PWM1</item>
+        <item>PWM2</item>
+        <item>PWM3</item>
+        <item>PWM4</item>
+        <item>PWM5</item>
+    </string-array>
+
+</resources>
